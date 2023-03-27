@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and all things electronic. 
 - 🌱 I’m currently learning Math-CS at University of San Diego, California!
 - 💞️ I’m looking to collaborate on Web Development Projects!
-- 📫 How to reach me @briangliu1@gmail.com
+- 📫 Reach me @briangliu1@gmail.com
 
 <!---
 brianliu1412/brianliu1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
